@@ -13,7 +13,7 @@ Whether you're a beginner or someone looking to sharpen your PySpark skills, thi
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics Covered (More notebooks to be added soon as I am working on them) 
 
 ### 🔰 Basics
 - Introduction to PySpark and Spark architecture
